@@ -15,5 +15,9 @@
   "workspaceLayout": {
     "libsDir": "projects",
     "appsDir": "projects"
-  }
+  },
+  "cli": {
+    "analytics": "3a7e0bd3-8df8-4785-a66a-4c3cc96035f5"
+  },
+  "defaultProject": "admin"
 }
