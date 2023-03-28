@@ -1,14 +1,5 @@
 {
-  "projects": {
-    "admin": {
-      "tags": ["type:app"],
-      "implicitDependencies": ["core"]
-    },
-    "core": {
-      "tags": ["type:lib"]
-    },
-    "user": {
-      "tags": ["type:app"]
-    }
-  }
+  "version":2,
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "projects": {}
 }

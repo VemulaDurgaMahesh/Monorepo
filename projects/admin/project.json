@@ -5,7 +5,7 @@
   "prefix": "app",
   "targets": {
     "build": {
-      "executor": "@angular-devkit/build-angular:browser",
+      "executor": "@nrwl/angular:webpack-browser",
       "options": {
         "outputPath": "dist/admin",
         "index": "projects/admin/src/index.html",
@@ -107,5 +107,5 @@
       }
     }
   },
-  "implicitDependencies": ["core"]
+  "implicitDependencies":["core"]
 }

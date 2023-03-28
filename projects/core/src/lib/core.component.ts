@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-core',
   template: `
     <p>
-      Welcome to Monorepo project!!
+      Welcomeee to Monorepo!!
     </p>
   `,
   styles: [
